@@ -299,7 +299,7 @@ figure {
 
 img,
 svg {
-  vertical-align;
+  vertical-align:
 }
 
 table {
@@ -2488,7 +2488,7 @@ textarea.form-control-lg {
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
-  -webkit-print-color-adjust: exact;
+              -webkit-print-color-adjust: exact;
           color-adjust: exact;
 }
 .form-check-input[type=checkbox] {
