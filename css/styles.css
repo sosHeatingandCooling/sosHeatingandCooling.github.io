@@ -108,6 +108,9 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   font-weight: 700;
   line-height: 1.2;
 }
+.checked {
+  color: orange;
+}
 
 h1, .h1 {
   font-size: calc(1.375rem + 1.5vw);
@@ -341,6 +344,8 @@ button {
 button:focus:not(:focus-visible) {
   outline: 0;
 }
+
+
 
 input,
 button,
